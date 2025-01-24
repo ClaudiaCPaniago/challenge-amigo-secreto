@@ -2,6 +2,10 @@
 
 Este é um projeto simples e interativo que permite gerenciar uma lista de amigos para um sorteio de amigo secreto. A aplicação permite aos usuários inserir nomes de amigos em uma lista e logo realizar um sorteio para determinar quem é o amigo secreto.
 
+## Preview do Projeto
+
+![preview img](assets/preview1.png)
+![preview img](assets/preview2.png)
 
 ## Funcionalidades e Demonstração da Aplicação
 
