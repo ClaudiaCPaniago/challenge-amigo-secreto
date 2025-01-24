@@ -5,7 +5,15 @@ Este é um projeto simples e interativo que permite gerenciar uma lista de amigo
 ## Preview do Projeto
 
 ![preview img](assets/preview1.png)
+
+<br>
+
 ![preview img](assets/preview2.png)
+
+## 🏅 Certificação
+
+Fui reconhecida com a seguinte insígnia pelo programa <Hello, ONE!> da Alura + Oracle:
+![preview img](assets/insignia.webp)
 
 ## Funcionalidades e Demonstração da Aplicação
 
